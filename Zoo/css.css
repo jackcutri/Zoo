@@ -1,0 +1,317 @@
+.hidden{
+    display: none;
+}
+
+#zookeeper{
+    position: absolute;
+    top: 0em;
+    left: .25em;
+    font-family: 'Schoolbell', cursive;
+    font-weight: bolder;
+    font-size: 28px;
+    color: #634219;
+    padding: .5em;
+}
+
+#gates{
+    position: absolute;
+    top: 3em;
+    left: 39px;
+    font-family: 'Schoolbell', cursive;
+    font-size: 25px;
+    color: #634219;
+    padding: .5em;
+}
+
+#feed{
+    position: absolute;
+    top: 11em;
+    left: 45px;
+    font-family: 'Schoolbell', cursive;
+    font-size: 25px;
+    color: #634219;
+    padding: .5em;
+}
+
+#sprinklers{
+    position: absolute;
+    top: 19em;
+    left: 23px;
+    font-family: 'Schoolbell', cursive;
+    font-size: 25px;
+    color: #634219;
+    padding: .5em;
+}
+
+#monkeyFed{
+    position: absolute;
+    top: .25em;
+    left: 7em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+    color: #E5E27B;
+    padding: .5em;
+}
+
+#elephantFed{
+    position: absolute;
+    top: .25em;
+    left: 24em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+    color: #E5E27B;
+    padding: .5em;
+}
+
+#lionFed{
+    position: absolute;
+    top: .25em;
+    left: 40.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    font-size: 23px;
+    color: #E5E27B;
+    padding: .5em;
+}
+
+#button1{
+    position: absolute;
+    top: 11.5em;
+    left: 3.5em;
+    background-color: #F89835;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button1:hover{
+    background-color: rgb(206, 125, 44);
+}
+
+ #button2{
+    position: absolute;
+    top: 14em;
+    left: 3.5em;
+    background-color: #F89835;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button2:hover{
+    background-color: rgb(206, 125, 44);
+}
+
+#button3{
+    position: absolute;
+    top: 16.5em;
+    left: 3.5em;
+    background-color: #F89835;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button3:hover{
+    background-color: rgb(206, 125, 44);
+}
+
+#button4{
+    position: absolute;
+    top: 9em;
+    left: 3.5em;
+    background-color: #F89835;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button4:hover{
+    background-color: rgb(206, 125, 44);
+}
+
+#button5{
+    position: absolute;
+    top: 26.5em;
+    left: 3.5em;
+    background-color: #E5E27B;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button5:hover{
+    background-color: rgb(189, 186, 100);
+}
+
+#button6{
+    position: absolute;
+    top: 29em;
+    left: 3.5em;
+    background-color: #E5E27B;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button6:hover{
+    background-color: rgb(189, 186, 100);
+}
+
+#button7{
+    position: absolute;
+    top: 31.5em;
+    left: 3.5em;
+    background-color: #E5E27B;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button7:hover{
+    background-color: rgb(189, 186, 100);
+}
+
+#button12{
+    position: absolute;
+    top: 24em;
+    left: 3.5em;
+    background-color: #E5E27B;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #634219;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button12:hover{
+    background-color: rgb(189, 186, 100);
+}
+
+#button8{
+    position: absolute;
+    top: 41.5em;
+    left: 3.5em;
+    background-color: #2e6c69;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button8:hover{
+    background-color:#23524f;
+}
+
+#button9{
+    position: absolute;
+    top: 44em;
+    left: 3.5em;
+    background-color: #2e6c69;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button9:hover{
+    background-color: #23524f;
+}
+
+#button10{
+    position: absolute;
+    top: 46.5em;
+    left: 3.5em;
+    background-color: #2e6c69;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button10:hover{
+    background-color: #23524f;
+}
+
+#button11{
+    position: absolute;
+    top: 39em;
+    left: 3.5em;
+    background-color: #2e6c69;
+    border: 0;
+    border-radius: 1.5em;
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-weight: bolder;
+    color: #FFFFFF;
+    line-height: 5px;
+    padding: 1em;
+    width: 70px;
+    height: 5px;
+}
+
+#button11:hover{
+    background-color: #23524f;
+} 
